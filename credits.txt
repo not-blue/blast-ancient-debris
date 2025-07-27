@@ -1,0 +1,9 @@
+Pack name:  Blast Ancient Debris
+Pack URL:   https://modrinth.com/datapack/blast-ancient-debris/
+Author:     Nicole / notblue / nicoleisnotblue
+Author URL: https://modrinth.com/user/notblue   
+
+Initial data pack generated with Misode Data Pack Generator (https://misode.github.io/).
+Pack maintained using Visual Studio Code.
+
+Inspired by /u/Jared6060 and /u/Superb_Ebb_6207 on reddit.

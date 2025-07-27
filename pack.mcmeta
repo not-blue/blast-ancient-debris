@@ -1,0 +1,22 @@
+{
+  "pack": {
+    "description": "Only blast furnaces can smelt ancient debris into netherite scraps",
+    "pack_format": 48,
+    "supported_formats": {
+      "min_inclusive": 48,
+      "max_inclusive": 999
+    }
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "minecraft",
+        "path": "advancement/recipes/misc/netherite_scrap.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/netherite_scrap.json"
+      }
+    ]
+  }
+}
