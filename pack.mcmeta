@@ -2,7 +2,7 @@
   "pack": {
     "description": "Only blast furnaces can smelt ancient debris into netherite scraps",
     "min_format": [101, 0],
-    "max_format": [999, 0],
+    "max_format": [999, 0]
   },
   "filter": {
     "block": [
